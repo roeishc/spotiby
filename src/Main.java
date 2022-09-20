@@ -1,9 +1,5 @@
 import java.util.GregorianCalendar;
 
-// Roei Shchory - 316591064
-// Sharon Chipurko - 31848961
-// Or Alush - 206257545
-
 public class Main {    
     
     public static void main(String[] args) {
